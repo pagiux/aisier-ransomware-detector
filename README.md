@@ -19,3 +19,7 @@ And then:
 After the training is done, we can view model performance and statistics using:
 
     aisier view aisier-ransomware-detector
+
+| ROC/AUC | Confusion Matrix |
+|---------|------------------|
+![](https://raw.githubusercontent.com/pagiux/aisier-ransomware-detector/master/plot/roc.jpg) | ![](https://raw.githubusercontent.com/pagiux/aisier-ransomware-detector/master/plot/confusion_matrix.jpg) |
